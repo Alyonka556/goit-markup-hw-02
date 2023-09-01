@@ -27,7 +27,7 @@ background-color:#FFFFFF;
 }
 
 .logo-nav{
-    color: #2E2F42;
+    color:#2e2f42;
 font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 800;
@@ -105,7 +105,7 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
-background-color:#4D5AE5;
+background-color: #4D5AE5;
 }
 
 .modal-btn:hover,
