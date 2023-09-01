@@ -70,7 +70,7 @@ font-style: normal;
 
 
 .adress-menu{
-    color: #434455;
+    color:#434455;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 400;
@@ -80,7 +80,7 @@ letter-spacing: 0.02em;
 
 .adress-menu:focus,
 .adress-menu:hover {
-    color: #404bbf;  
+    color:#404bbf;  
 }
 
 .hero{
@@ -103,14 +103,14 @@ font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.02em;
+letter-spacing: 0.04em;
 cursor: pointer;
-background: #4D5AE5;
+background:#4D5AE5;
 }
 
 .modal-btn:hover,
 .modal-btn:focus {
-    color: #404BBF;
+    color:#404BBF;
 }
 
 .name-title{
@@ -119,8 +119,8 @@ font-family: 'Roboto', sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.2; 
-letter-spacing: 0.4em;
+line-height: 1.5; 
+letter-spacing: 0.04em;
 }
 
 .inform-text{
@@ -154,7 +154,7 @@ font-family: 'Roboto', sans-serif;
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11; 
-letter-spacing: 0.03em;
+letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 
