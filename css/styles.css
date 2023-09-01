@@ -37,7 +37,7 @@ text-transform: uppercase;
 }
 
 .menu-link{
-    color: #2E2F42;
+    color:#434455;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 500;
@@ -46,11 +46,11 @@ letter-spacing: 0.02em;
 }
 
 .menu-link:hover{
-    color: #404bbf;  
+    color:#404bbf;  
 }
 
 .menu-link:focus{
-    color: #404bbf;
+    color:#404bbf;
 }
 
 .adress{
@@ -69,7 +69,7 @@ font-style: normal;
 }
 
 
-.adress-menu{
+.contact-menu{
     color:#434455;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
@@ -78,8 +78,8 @@ line-height: 1,5;
 letter-spacing: 0.02em;
 }
 
-.adress-menu:focus,
-.adress-menu:hover {
+.contact-menu:focus,
+.contact-menu:hover {
     color:#404bbf;  
 }
 
@@ -98,19 +98,18 @@ letter-spacing: 0.02em;
 }
 
 .modal-btn{
-    /* color:  #FFF; */
+color: #ffffff ;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.04em;
 cursor: pointer;
-background:#4D5AE5;
 }
 
 .modal-btn:hover,
 .modal-btn:focus {
-    color:#404BBF;
+    background-color:#404BBF;
 }
 
 .name-title{
@@ -119,8 +118,8 @@ font-family: 'Roboto', sans-serif;
 font-size: 20px;
 font-style: normal;
 font-weight: 500;
-line-height: 1.5; 
-letter-spacing: 0.04em;
+line-height: 1.2; 
+letter-spacing: 0.02em;
 }
 
 .inform-text{
@@ -165,7 +164,7 @@ font-family: 'Roboto', sans-serif;
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
-letter-spacing: 0.04em;
+letter-spacing: 0.02em;
 }
 
 .work-list-team{
