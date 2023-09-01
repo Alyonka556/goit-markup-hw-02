@@ -17,8 +17,8 @@
         font-family: 'Raleway', sans-serif;
         font-size: 18 px;
         font-weight: 800;
-        line-height: 1,17;
-        letter-spacing: 0.54 em;
+        line-height: 1.17;
+        letter-spacing: 0.03 em;
         text-transform: uppercase;
     }
     
@@ -27,8 +27,8 @@
     font-family: 'Raleway', sans-serif;
     font-size: 18 px;
     font-weight: 800;
-    line-height: 1,17;
-    letter-spacing: 0.54 em;
+    line-height: 1.17;
+    letter-spacing: 0.03 em;
     text-transform: uppercase;
     }
     
@@ -37,8 +37,8 @@
     font-family: 'Roboto', sans-serif;
     font-size: 16 px;
     font-weight: 500;
-    line-height: 1,5;
-    letter-spacing: 0.32 em;
+    line-height: 1.5;
+    letter-spacing: 0.02 em;
     }
     
     .menu-link:hover{
@@ -49,35 +49,30 @@
         color: #404bbf;
     }
     
-    
-    
-    .email-adress{
+    .adress{
         color: #434455;
     font-family: 'Roboto', sans-serif;
     font-size: 16 px;
     font-weight: 400;
-    line-height: 1,5; 
+    line-height: 1.5; 
+    letter-spacing: 0.02 em;
+    font-style: normal;
+    }
+    
+    .adress-menu{
+        color: #434455;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16 px;
+    font-weight: 400;
+    line-height: 1.5; 
     letter-spacing: 0.32 em;
     }
     
-    .email-adress:focus,
-    .email-adress:hover {
+    .adress-menu:focus,
+    .adress-menu:hover {
         color:#404bbf;
     }
     
-    .phone-adress{
-        color: #434455;
-    font-family: 'Roboto', sans-serif;
-    font-size: 16 px;
-    font-weight: 400;
-    line-height: 1,5;
-    letter-spacing: 0.32 em;
-    }
-    
-    .phone-adress:focus,
-    .phone-adress:hover {
-        color: #404bbf;  
-    }
     
     .btn-modal{
         color: #4d5ae5;
@@ -85,7 +80,7 @@
         font-family: 'Roboto', sans-serif;
         font-size: 16 px;
         font-weight: 500;
-        line-height: 1,5; 
+        line-height: 1.5; 
         letter-spacing: 0.64 em;
         background-color:#F4F4FD;
     }
@@ -104,7 +99,7 @@
 font-family: 'Roboto', sans-serif;
 font-size: 20 px;
 font-weight: 500;
-line-height: 1,2; 
+line-height: 1.2; 
 letter-spacing: 0.4 em;
     }
 
@@ -113,7 +108,7 @@ letter-spacing: 0.4 em;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 400;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.32 em;
     }
 
@@ -126,7 +121,7 @@ letter-spacing: 0.32 em;
     font-family: 'Raleway', sans-serif;
     font-size: 18 px;
     font-weight: 800;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.54 em;
     text-transform: uppercase;
     }
@@ -136,6 +131,6 @@ letter-spacing: 0.32 em;
     font-family: 'Roboto', sans-serif;
     font-size: 16 px;
     font-weight: 400;
-    line-height: 1,5; 
+    line-height: 1.5; 
     letter-spacing: 0.32 em;
     }

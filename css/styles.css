@@ -1,6 +1,6 @@
 .body{
 font-family: 'Roboto', sans-serif;
-color: #434455;
+background-color: #FFFFFF;
 }
 :root{
     background: #FFFF;
@@ -19,8 +19,8 @@ color: #434455;
     font-family: 'Raleway', sans-serif;
     font-size: 18 px;
     font-weight: 800;
-    line-height: 1,17;
-    letter-spacing: 0.54 em;
+    line-height: 1.17;
+    letter-spacing: 0.03 em;
     text-transform: uppercase;
 }
 
@@ -29,8 +29,8 @@ color: #434455;
 font-family: 'Raleway', sans-serif;
 font-size: 18 px;
 font-weight: 800;
-line-height: 1,17;
-letter-spacing: 0.54 em;
+line-height: 1.17;
+letter-spacing: 0.03 em;
 text-transform: uppercase;
 }
 
@@ -39,7 +39,7 @@ text-transform: uppercase;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 500;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.32 em;
 }
 
@@ -51,22 +51,23 @@ letter-spacing: 0.32 em;
     color: #404bbf;
 }
 
-.email-adress{
+.adress{
     color: #434455;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 400;
-line-height: 1,5; 
-letter-spacing: 0.32 em;
+line-height: 1.5; 
+letter-spacing: 0.02 em;
+font-style: normal;
 }
 
-.email-adress:focus,
-.email-adress:hover {
+.adress:focus,
+.adress:hover {
     color:#404bbf
 }
 
 
-.phone-adress{
+.adress-menu{
     color: #434455;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
@@ -75,8 +76,8 @@ line-height: 1,5;
 letter-spacing: 0.32 em;
 }
 
-.phone-adress:focus,
-.phone-adress:hover {
+.adress-menu:focus,
+.adress-menu:hover {
     color: #404bbf;  
 }
 
@@ -90,7 +91,7 @@ text-align: center;
 font-family:'Roboto', sans-serif;
 font-size: 56 px;
 font-weight: 700;
-line-height: 1,07; 
+line-height: 1.07; 
 letter-spacing: 1.12 em;
 }
 
@@ -99,7 +100,7 @@ letter-spacing: 1.12 em;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 500;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.64 em;
 cursor: pointer;
 background: #4D5AE5;
@@ -116,7 +117,7 @@ font-family: 'Roboto', sans-serif;
 font-size: 20 px;
 font-style: normal;
 font-weight: 500;
-line-height: 1,2; 
+line-height: 1.2; 
 letter-spacing: 0.4 em;
 }
 
@@ -125,7 +126,7 @@ letter-spacing: 0.4 em;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 400;
-line-height: 1,5; 
+line-height: 1.5; 
 letter-spacing: 0.32 em;
 }
 
@@ -135,7 +136,7 @@ text-align: center;
 font-family: 'Roboto', sans-serif;
 font-size: 36 px;
 font-weight: 700;
-line-height: 1,11;
+line-height: 1.11;
 letter-spacing: 0.72 em;
 text-transform: capitalize;
 }
@@ -150,7 +151,7 @@ text-align: center;
 font-family: 'Roboto', sans-serif;
 font-size: 36 px;
 font-weight: 700;
-line-height: 1,11; 
+line-height: 1.11; 
 letter-spacing: 0.72 em;
 text-transform: capitalize;
 }
@@ -161,7 +162,7 @@ text-align: center;
 font-family: 'Roboto', sans-serif;
 font-size: 20 px;
 font-weight: 500;
-line-height: 1,2;
+line-height: 1.2;
 letter-spacing: 0.4 em;
 }
 
@@ -175,7 +176,7 @@ text-align: center;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 400;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.32 em;
 }
 
@@ -188,7 +189,7 @@ letter-spacing: 0.32 em;
 font-family: 'Raleway', sans-serif;
 font-size: 18 px;
 font-weight: 800;
-line-height: 1,17;
+line-height: 1.17;
 letter-spacing: 0.54 em;
 text-transform: uppercase;
 }
@@ -198,6 +199,6 @@ text-transform: uppercase;
 font-family: 'Roboto', sans-serif;
 font-size: 16 px;
 font-weight: 400;
-line-height: 1,5; 
+line-height: 1.5; 
 letter-spacing: 0.32 em;
 }
