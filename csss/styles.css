@@ -5,7 +5,10 @@
     background-color:#FFFFFF;
 }
     
-    
+:root{
+    list-style: none;
+    text-decoration: none;
+}
     
     .list{
         list-style: none;
