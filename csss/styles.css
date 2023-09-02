@@ -6,8 +6,7 @@
 }
     
 :root{
-    list-style: none;
-    text-decoration: none;
+    --brand-color:#434455;
 }
     
     .list{
